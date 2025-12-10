@@ -1,11 +1,11 @@
-# Assignment 3 – Personal Portfolio
+# Assignment 4 – Personal Portfolio
 
 ## Overview
 
-This is an updated personal website built for a web development course (Assignment 3).  
-The assignment focuses on integrating dynamic content, interactive features, 
-and enhancing web development skills using HTML, CSS, and JavaScript.  
-The website is responsive, includes animations, and fetches data dynamically from GitHub.
+This is a polished personal portfolio website built as the final project for the Web Development course.  
+It showcases my skills in **HTML, CSS, JavaScript, responsive design, and AI-assisted 
+development**.  
+The website includes interactive features, dynamic content fetching, animations, and a professional layout ready for deployment.
 
 ---
 
@@ -32,6 +32,37 @@ After >> ![Lighthouse result](assets/images/test2.png)
 
 ---
 
+## AI Usage Summary
+AI tools were used throughout the development of this personal portfolio website to improve coding efficiency, problem-solving, and documentation.
+
+**Tools Used:**  
+- ChatGPT (OpenAI)
+
+**Use Cases:**  
+- **Understanding Requirements:** Helped break down assignment instructions into actionable tasks.  
+- **Animation Integration:** Guided proper implementation of fade-in animations for both static and dynamically generated elements.  
+- **Debugging GitHub API Display:** Assisted in resolving delays and asynchronous issues when fetching and displaying project cards.  
+- **Code Optimization:** Suggested merging duplicate API requests to improve efficiency and reduce unnecessary network calls.  
+- **Performance & Image Optimization:** Recommended tools and strategies for Lighthouse testing and compressing images for faster loading.  
+- **Documentation & Checklist Verification:** Reviewed README.md and overall project to ensure all requirements were met.
+
+**Benefits:**  
+- Saved time in understanding complex instructions.  
+- Improved functionality, performance, and user experience.  
+- Strengthened skills in JavaScript, API integration, animations, and code optimization.
+
+**Challenges Overcome:**  
+- Applying animations to dynamic content.  
+- Handling asynchronous API requests correctly.  
+- Managing state (theme toggle, personalized greeting, project filtering) efficiently.
+
+**Learning Outcomes:**  
+- Enhanced ability to read, understand, and implement assignment requirements.  
+- Developed debugging and optimization skills for dynamic web applications.  
+- Gained experience in responsibly documenting AI usage and integrating AI recommendations into real-world projects.
+
+--- 
+
 ## Technologies Used
 
 - **HTML** structure for all sections and elements  
@@ -43,7 +74,7 @@ After >> ![Lighthouse result](assets/images/test2.png)
 ---
 
 ## Project Structure
-assignment-3/
+assignment-4/
 ├── README.md
 ├── index.html
 ├── css/
@@ -52,6 +83,12 @@ assignment-3/
 │   └── script.js
 ├── assets/
 │   └── images/
+├── docs/
+│   ├── ai-usage-report.md
+│   └── technical-documentation.md
+├── presentation/
+│   ├── slides.pdf
+│   └── demo-video.mp4
 └── .gitignore
 
 ---
