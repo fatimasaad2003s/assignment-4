@@ -27,8 +27,6 @@ The website includes interactive features, dynamic content fetching, animations,
 - **Light/Dark mode toggle** with rotating icon and LocalStorage support  
 - **Animations / Transitions** including fade-in sections and hover effects for buttons, images, and project cards  
 - **Testing using Lighthouse** 
-Before >> ![Lighthouse result](assets/images/test.png)
-After >> ![Lighthouse result](assets/images/test2.png)
 
 ---
 
@@ -87,8 +85,7 @@ assignment-4/
 │   ├── ai-usage-report.md
 │   └── technical-documentation.md
 ├── presentation/
-│   ├── slides.pdf
-│   └── demo-video.mp4
+│   └── slides.pdf
 └── .gitignore
 
 ---
@@ -98,6 +95,10 @@ assignment-4/
 
 ---
 
+## Demo Video 
+You can download or watch the demo video [here](https://github.com/fatimasaad2003s/assignment-4/releases/download/v1.0/demo.mp4).
+
+---
 ## How To Run 
 
 - Download this repository as a ZIP file  
