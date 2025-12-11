@@ -85,7 +85,7 @@ assignment-4/
 │   ├── ai-usage-report.md
 │   └── technical-documentation.md
 ├── presentation/
-│   └── slides.pdf
+│   └── portfolio.pptx
 └── .gitignore
 
 ---
